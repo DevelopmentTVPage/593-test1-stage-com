@@ -1,0 +1,89 @@
+{
+    "title": "Eyeliner Hacks.mp4",
+    "description": "This Eye Liner is great.",
+    "referenceId": "69e27ad0e97864041c041ef9a5ad1d42",
+    "date_created": "1518117688",
+    "date_modified": "1518469358",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "id": "139543063",
+    "loginId": "1759123",
+    "entityType": "1",
+    "titleTextEncoded": "Eyeliner-Hacks-mp4",
+    "category": "",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "1139",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1139",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "1139",
+        "prettyDuration": "00:18:59",
+        "thumbnailUrl": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/thumb-69e27ad0e97864041c041ef9a5ad1d42-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/media.mpd",
+        "hlsUrl": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v-dev.tvpage.com\/1759123\/139543063\/20639\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0,
+    "tvp_profiles_nlp": "",
+    "tvp_profiles_account": null,
+    "tvp_profiles_manual_account": "",
+    "tvp_profiles_maxscore_account": ""
+}
